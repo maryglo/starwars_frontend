@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+}
+
+.button_wrap {
+    -webkit-box-shadow: -2px 0 5px 5px rgba(204, 204, 204, 0.5);
+    -moz-box-shadow:-2px 0 5px 5px rgba(204, 204, 204, 0.5);
+    box-shadow: -2px 0 5px 5px rgba(204, 204, 204, 0.5);
+    background-color: #c2ae00;
+    border-radius: .3rem;
+}
+
+.main_btn_ {
+    background-color: #FFE81F !important;
+    color: #000000 !important;
+    top: -7px;
+    position: relative;
+}
+
+.main_btn_:hover {
+    background-color: #fded63 !important;
+    position: relative;
+    transform: translate(0px, 4px);
+}
+
